@@ -46,9 +46,8 @@ Akihisa YAMADA (ERATO HASUO Metamathematics for Systems Design Project, NII)
 
 ## 参加申し込み / Registration
 
-11/8(金)までにこちらから / Please register by 8th November from
-
-[here](https://docs.google.com/forms/d/1uv5E2SdAv6jt7SBM44HDVI78AmLH4xMDcH3nJKc-MW4/edit?usp=sharing)
+11/8(金)までに / Please register by 8th November from
+[こちらから / here](https://docs.google.com/forms/d/1uv5E2SdAv6jt7SBM44HDVI78AmLH4xMDcH3nJKc-MW4/edit?usp=sharing)
 ## プログラム / Technical Program
 
 TBA

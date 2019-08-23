@@ -54,6 +54,13 @@ TBA
 
 ## TPPmark 
 
+Let us formalize Turing machines on cyclic tapes.
+Let $\Sigma$ be a set of symbols, containing at least two symbols, say $0$ and $1$.
+A (simplified) Turing machine is specified by
+a finite set $Q$ of states and
+a partial function
+$\Delta : Q \times \Sigma \harpoonup Q \times \Sigma \times \{L,R\}$.
+
 
 ## これまでのTPP / Past TPPs
 [TPP2018](https://ksk.github.io/tpp2018/) /

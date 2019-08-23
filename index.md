@@ -26,7 +26,13 @@ We hope all participants would consider giving a talk.
 
 ## 会場 / Venue
 
+国立情報学研究所（学術総合センター）19階 1901,1902,1903会議室 /
+National Institute of Informatics (National Center of Sciences) 19th floor, Rooms 1901, 1902, 1903
+
 ## 住所 / Address
+
+〒101-8430 東京都千代田区一ツ橋2-1-2 / 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430
+[アクセス](https://www.nii.ac.jp/about/access/) / [Access](https://www.nii.ac.jp/en/about/access/)
 
 ## 幹事 / Organizer
 

@@ -34,6 +34,11 @@ National Institute of Informatics (National Center of Sciences) 19th floor, Room
 〒101-8430 東京都千代田区一ツ橋2-1-2 / 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430
 [アクセス](https://www.nii.ac.jp/about/access/) / [Access](https://www.nii.ac.jp/en/about/access/)
 
+<a name="party" />
+## 懇親会 / Dinner Party
+
+TBA
+
 ## 幹事 / Organizer
 
 山田晃久 (国立情報学研究所, ERATO蓮尾メタ数理システムデザインプロジェクト) /
@@ -41,7 +46,9 @@ Akihisa YAMADA (ERATO HASUO Metamathematics for Systems Design Project, NII)
 
 ## 参加申し込み / Registration
 
-TBA
+11/8(金)までにこちらから / Please register by 8th November from
+
+[here](https://docs.google.com/forms/d/1uv5E2SdAv6jt7SBM44HDVI78AmLH4xMDcH3nJKc-MW4/edit?usp=sharing)
 ## プログラム / Technical Program
 
 TBA

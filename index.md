@@ -38,6 +38,7 @@ National Institute of Informatics (National Center of Sciences) 19th floor, Room
 ## 懇親会 / Dinner Party
 
 日時: 11/18夕方 / Time: 18th Mon. evening
+
 会場 / Place: TBA
 ## 幹事 / Organizer
 
@@ -48,7 +49,7 @@ Akihisa YAMADA (ERATO HASUO Metamathematics for Systems Design Project, NII)
 
 11/8(金)までに / Please register by 8th November from
 
-<span style="font-size:200%">
+<span style="font-size:150%">
 [こちらから / here](https://docs.google.com/forms/d/e/1FAIpQLSdApuGxfoZVQhFbDOeik1rLsnffh7b58e5hwV0o8cKylaXYCw/viewform)
 </span>
 ## プログラム / Technical Program

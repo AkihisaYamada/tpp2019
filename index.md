@@ -46,7 +46,7 @@ National Institute of Informatics (National Center of Sciences) 19th floor, Room
 山田晃久 (国立情報学研究所, ERATO蓮尾メタ数理システムデザインプロジェクト) /
 Akihisa YAMADA (ERATO HASUO Metamathematics for Systems Design Project, NII)
 
-akihisayamada<at>nii.ac.jp
+akihisayamada&lt;at&gt;nii.ac.jp
 
 ## 参加申し込み / Registration
 

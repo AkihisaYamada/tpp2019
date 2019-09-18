@@ -40,6 +40,7 @@ National Institute of Informatics (National Center of Sciences) 19th floor, Room
 日時: 11/18夕方 / Time: 18th Mon. evening
 
 会場 / Place: TBA
+
 ## 幹事 / Organizer
 
 山田晃久 (国立情報学研究所, ERATO蓮尾メタ数理システムデザインプロジェクト) /

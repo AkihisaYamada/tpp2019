@@ -79,7 +79,7 @@ You can base on any paper definition of Turing machines.
 2. その1ステップ計算を定義してください．/
 Please define their one-step computation.
 
-3. マシンが与えられた入力テープに対して停止するという術語を定義してください．/
+3. マシンが与えられた入力テープに対して停止するという述語を定義してください．/
 Please define the predicate that a machine halts on a given input tape.
 
 4. 長さ・内容不明のcyclicテープを入力し，テープをゼロクリアして停止するマシンを与えてください．テープ長の最小値を仮定してかまいません．このパズルは私が以前 Vincent van Oostrom先生より頂いたものです．/

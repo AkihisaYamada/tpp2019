@@ -34,10 +34,10 @@ National Institute of Informatics (National Center of Sciences) 19th floor, Room
 〒101-8430 東京都千代田区一ツ橋2-1-2 / 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430
 [アクセス](https://www.nii.ac.jp/about/access/) / [Access](https://www.nii.ac.jp/en/about/access/)
 
-<a name="party" />
 ## 懇親会 / Dinner Party
+<a name="party" />
 
-日時: 11/18夕方 / Time: 18th Mon. evening
+日時: 11/18 18:30~ / Time: 18th Mon. 18:30~
 
 会場 / Place: TBA
 

@@ -39,7 +39,9 @@ National Institute of Informatics (National Center of Sciences) 19th floor, Room
 
 日時: 11/18 18:30~ / Time: 18th Mon. 18:30~
 
-会場 / Place: <a href="https://tabelog.com/tokyo/A1310/A131003/13201245/">まごころ居酒屋 芝浦 神保町店</a>
+会場 / Place:
+<a href="https://tabelog.com/tokyo/A1310/A131003/13201245/">まごころ居酒屋 芝浦 神保町店</a>
+([On Google Map](https://g.page/sibaura-jinbouchou?share))
 
 ## 幹事 / Organizer
 

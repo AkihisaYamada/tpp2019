@@ -180,6 +180,14 @@ This puzzle was given to me by Vincent van Oostrom.
 6. (任意) そのマシンが任意のcyclicテープに対して停止し，結果のテープがクリアされていることを証明してください．/
 (Optional) Please prove that your machine halts and resulting tape is cleared for any input cyclic tape.
 
+### 解答 / Solutions
+
+- Kenta Inoue [Coq/SSReflect](tppmark2019-inoue.v)
+- Mitsuharu Yamamoto [Coq/SSReflect](tppmark2019-mitsuharu.v)
+- Jacques Garrigue [Coq/SSReflect](tppmark2019-garrigue.v)
+- Keisuke Nakano [Coq/SSReflect](tppmark2019-nakano.v)
+- Makoto Kanazawa [Lean](CTM.lean)
+
 ## これまでのTPP / Past TPPs
 [TPP2018](https://ksk.github.io/tpp2018/) /
 [TPP2017](https://aigarashi.github.io/TPP2017/) /

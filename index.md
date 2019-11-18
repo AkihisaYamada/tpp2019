@@ -183,7 +183,7 @@ This puzzle was given to me by Vincent van Oostrom.
 ### 解答 / Solutions
 
 - Kenta Inoue [Coq/SSReflect](tppmark2019-inoue.v)
-- Mitsuharu Yamamoto [Coq/SSReflect](tppmark2019-mitsuharu.v)
+- Mitsuharu Yamamoto [Coq/SSReflect](tppmark2019-mituharu.v)
 - Jacques Garrigue [Coq/SSReflect](tppmark2019-garrigue.v)
 - Keisuke Nakano [Coq/SSReflect](tppmark2019-nakano.v)
 - Makoto Kanazawa [Lean](CTM.lean)

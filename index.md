@@ -144,7 +144,8 @@ recursive bindings, and formalize them in the proof assistant Coq.
   坂口和彦 @ 筑波大学<br/>
   On formalizing nontrivial mathematical definitions and proofs with proof assistants, it is necessary to have a good infrastructure to support the users. The key ingredient of the infrastructure is the hierarchy of mathematical structures, that allows for the sharing of notations and theories to avoid repeating similar definitions and proofs, and supports automated inference to make inheritance/subtyping of structures implicit. The packed classes method is a generic design pattern to define and combine mathematical structures in a dependent type theory with records. The Coq proof assistant has mechanisms to enable automated structure inference and subtyping in packed classes, that is, implicit coercions and canonical structures. These ingredients have been successfully used to prove nontrivial mathematical proofs, in particular, the Odd Order Theorem. In spite of its success, the packed classes method is hard to master for library designers and requires a substantial amount of work, because of poor support for packed classes by the Coq system. In this paper, we propose a thorough analysis of the packed classes method, in particular some invariants of hierarchies that are necessary to make the packed classes method work well, and propose tools to support its large scale deployment by checking these invariants.
 
-* 16:30 **potential talk slot**
+* 16:30 **TPP Mark Session 2**<br/>
+  Keisuke Nakano @ Tohoku University
 
 * 17:30 *Closing*
 

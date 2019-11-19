@@ -189,6 +189,7 @@ This puzzle was given to me by Vincent van Oostrom.
 - Keisuke Nakano [Coq/SSReflect](tppmark2019-nakano.v)
 - Makoto Kanazawa [Lean](CTM.lean)
 - Kokichi Futatsugi [CafeOBJ](tpp2019MPinCafeOBJ.zip)
+- Michikazu Hirata [Coq](tpp2019-hirata.v)s
 
 ## これまでのTPP / Past TPPs
 [TPP2018](https://ksk.github.io/tpp2018/) /

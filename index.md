@@ -64,6 +64,8 @@ Email: akihisayamada&lt;at&gt;nii.ac.jp
 
 * 14:00 **Opening; On TPP Mark 2019**<br/>
   Akihisa Yamada @ NII
+* 14:20 **TPPMark2019解答** ([slides](tpp2019-inoue.key))<br/>
+  井上健太 @ 千葉大学大学院
 
 * 14:30 **TPP Mark 2019 in CafeOBJ** (45min)<br/>
   二木厚吉 (FUTATSUGI,Kokichi) @ 北陸先端大／産総研 (JAIST/AIST)<br/>
@@ -71,7 +73,8 @@ Email: akihisayamada&lt;at&gt;nii.ac.jp
 
 * 15:15 Break (15min)
 
-* 15:30 **定理間の類似度の定式化について(Work in Progress)** (30min)<br/>
+* 15:30 **定理間の類似度の定式化について(Work in Progress)** (30min)
+  ([slides](tpp2019-nakasho.pdf)<br/>
   中正 和久 (なかしょう かずひさ) @ 山口大学<br/>
   近年の形式化数学ライブラリの大規模化により，ライブラリ中の定理検索に対するニーズが高まっている．定理は同値な変形によってその表現を大きく変化させるため，パターンマッチングによる検索では多くの検索漏れが生じてしまう．これを解決するには，定理間に類似度指標を導入し，それに準ずる検索アルゴリズムを開発することが求められる．本発表では「定理Aに対する定理Bの論理的な類似度」を「定理Aを仮定して定理Bを導く最短証明の情報量」として定式化する．発表者は，この定式化によって定理間に擬距離を導入し，自動定理証明や定理の検索・分類・クラスタリング，ライブラリの正規化などに応用することを目指している．
 
@@ -108,8 +111,15 @@ SSReflectを用いて、対象とするペトリネットにおいてKarp-Miller
 
 * 11:00 Break (15min)
 
-* 11:15 **A linear time algorithm for automatic generation of multiplicative planar proof nets (tentative)** (45min)<br/>
+* 11:15 **A linear time algorithm for automatic generation of multiplicative planar proof nets (tentative)** (45min)
+[slides](tpp2019-matsuoka.pdf)<br/>
   Satoshi Matsuoka @ AIST<br/>
+  Recently we have found a new linear time correctness condition for multiplicative proof nets of Linear Logic. We have given an implementation for this condition, but found a bug in the first version, although it has been fixed in the second version. The bug was subtle: we must introduce a deadlock prevention mechanism in order to fix it.
+
+  In order to confirm that the current version is correct, we would like to have a lot of test data: we need both correct MLL proof nets and MLL proof structures that are not proof nets. It is relatively easy to generate a large number of general MLL proof structures. But correct MLL proof nets are quite few among them. One approach to generate correct MLL proof nets is to apply an assignment algorithm of multiplicative links to "pre-proof structures". But this algorithm is quadratic: it is not appropriate to generate big correct MLL proof nets.
+
+  In this talk, we show that a linear time improvement of this assignment algorithm is possible in
+  a special class of MLL proof nets: in the planar case. This linear time algorithm has a geometric flavor and uses union-find data structures.
 
 * 12:00 Lunch break (1hour 30min)
 
@@ -124,7 +134,8 @@ SSReflectを用いて、対象とするペトリネットにおいてKarp-Miller
 
 * 15:00 Break (15min)
 
-* 15:15 **Formal Verifications of Call-by-Need and Call-by-Name Evaluations with Mutual Recursion** (30min)<br/>
+* 15:15 **Formal Verifications of Call-by-Need and Call-by-Name Evaluations with Mutual Recursion** (30min)
+  [slides](tpp2019-mizuno.pdf)<br/>
   水野雅之 @ 東北大学<br/>
   For non-strict languages, the equivalence between the high-level
 specification (call-by-name) and the actual implementation

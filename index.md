@@ -62,7 +62,7 @@ Email: akihisayamada&lt;at&gt;nii.ac.jp
 
 ### Nov. 18
 
-* 14:00 **Opening; On TPP Mark 2019**<br/>
+* 14:00 **Opening; On TPP Mark 2019** ([slides](tpp2019-yamada.pdf))<br/>
   Akihisa Yamada @ NII
 * 14:20 **TPPMark2019解答** ([slides](tpp2019-inoue.key))<br/>
   井上健太 @ 千葉大学大学院
@@ -74,7 +74,7 @@ Email: akihisayamada&lt;at&gt;nii.ac.jp
 * 15:15 Break (15min)
 
 * 15:30 **定理間の類似度の定式化について(Work in Progress)** (30min)
-  ([slides](tpp2019-nakasho.pdf)<br/>
+  ([slides](tpp2019-nakasho.pdf))<br/>
   中正 和久 (なかしょう かずひさ) @ 山口大学<br/>
   近年の形式化数学ライブラリの大規模化により，ライブラリ中の定理検索に対するニーズが高まっている．定理は同値な変形によってその表現を大きく変化させるため，パターンマッチングによる検索では多くの検索漏れが生じてしまう．これを解決するには，定理間に類似度指標を導入し，それに準ずる検索アルゴリズムを開発することが求められる．本発表では「定理Aに対する定理Bの論理的な類似度」を「定理Aを仮定して定理Bを導く最短証明の情報量」として定式化する．発表者は，この定式化によって定理間に擬距離を導入し，自動定理証明や定理の検索・分類・クラスタリング，ライブラリの正規化などに応用することを目指している．
 
@@ -112,7 +112,7 @@ SSReflectを用いて、対象とするペトリネットにおいてKarp-Miller
 * 11:00 Break (15min)
 
 * 11:15 **A linear time algorithm for automatic generation of multiplicative planar proof nets (tentative)** (45min)
-[slides](tpp2019-matsuoka.pdf)<br/>
+  ([slides](tpp2019-matsuoka.pdf))<br/>
   Satoshi Matsuoka @ AIST<br/>
   Recently we have found a new linear time correctness condition for multiplicative proof nets of Linear Logic. We have given an implementation for this condition, but found a bug in the first version, although it has been fixed in the second version. The bug was subtle: we must introduce a deadlock prevention mechanism in order to fix it.
 
@@ -135,7 +135,7 @@ SSReflectを用いて、対象とするペトリネットにおいてKarp-Miller
 * 15:00 Break (15min)
 
 * 15:15 **Formal Verifications of Call-by-Need and Call-by-Name Evaluations with Mutual Recursion** (30min)
-  [slides](tpp2019-mizuno.pdf)<br/>
+  ([slides](tpp2019-mizuno.pdf))<br/>
   水野雅之 @ 東北大学<br/>
   For non-strict languages, the equivalence between the high-level
 specification (call-by-name) and the actual implementation

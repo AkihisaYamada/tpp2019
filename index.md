@@ -67,7 +67,8 @@ Email: akihisayamada&lt;at&gt;nii.ac.jp
 * 14:20 **TPPMark2019解答** ([slides](tpp2019-inoue.key))<br/>
   井上健太 @ 千葉大学大学院
 
-* 14:30 **TPP Mark 2019 in CafeOBJ** (45min)<br/>
+* 14:30 **TPP Mark 2019 in CafeOBJ** (45min)
+  ([slides](tpp2019-futatsugi.pdf))<br/>
   二木厚吉 (FUTATSUGI,Kokichi) @ 北陸先端大／産総研 (JAIST/AIST)<br/>
   Modeling, specification, and verification of TPP Mark 2019 problem in CafeOBJ Specification Verification System is presented.  Some comments on recent advances in CafeOBJ's Specification Verification (i.e. theorem proving) with equational reduction/rewriting are also given.
 
@@ -200,7 +201,7 @@ This puzzle was given to me by Vincent van Oostrom.
 - Jacques Garrigue [Coq/SSReflect](tppmark2019-garrigue.v)
 - Keisuke Nakano [Coq/SSReflect](tppmark2019-nakano.v)
 - Makoto Kanazawa [Lean](CTM.lean)
-- Kokichi Futatsugi [CafeOBJ](tpp2019MPinCafeOBJ.zip)
+- Kokichi Futatsugi [CafeOBJ, to be revised](tpp2019MPinCafeOBJ.zip)
 - Michikazu Hirata [Coq](tppmark2019-hirata.v)
 
 ## これまでのTPP / Past TPPs

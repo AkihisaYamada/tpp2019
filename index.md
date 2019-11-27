@@ -125,7 +125,8 @@ SSReflectを用いて、対象とするペトリネットにおいてKarp-Miller
 
 * 12:00 Lunch break (1hour 30min)
 
-* 13:30 **Horn Clauses in Hybrid-Dynamic First-Order Logic** (45min)<br/>
+* 13:30 **Horn Clauses in Hybrid-Dynamic First-Order Logic** (45min)
+  ([slides](tpp2019-gaina.pdf))<br/>
   Daniel GAINA @ Institute of Mathematics for Industry (IMI), Kyushu University<br/>
   We propose a hybrid-dynamic first-order logic as a formal foundation for specifying and reasoning about reconfigurable systems.As the name suggests, the formalism we develop extends (many-sorted) first-order logic with features that are common to hybrid logics and to dynamic logics.This provides certain key advantages for dealing with reconfigurable systems, such as: (a) a signature of nominals, including operation and relation symbols, that allows references to specific possible worlds / system configurations -- as in the case of hybrid logics; (b) distinguished signatures of rigid and flexible symbols, where the rigid symbols are interpreted uniformly across possible worlds; this supports a rigid form of quantification, which ensures that variables have the same interpretation regardless of the possible world where they are evaluated; (c) hybrid terms, which increase the expressive power of the logic in the context of rigid symbols; and (d) modal operators over dynamic-logic actions, which are defined as regular expressions over binary nominal relations. We then study Horn clauses in this hybrid-dynamic logic, and develop a series of results that lead to an initial-semantics theorem for arbitrary sets of clauses.This shows that a significant fragment of hybrid-dynamic first-order logic has good computational properties, and can serve as a basis for defining executable languages for reconfigurable systems.
 
